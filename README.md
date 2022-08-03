@@ -1,0 +1,2 @@
+# HarmonikSeri
+proje
